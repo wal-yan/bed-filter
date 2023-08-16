@@ -5,12 +5,15 @@ authors:
 - family-names: "Sharma"
   given-names: "Abhinav"
   orcid: "https://orcid.org/0000-0002-6402-6993"
-- family-names: "Agudelo-Romero"
-  given-names: "Patricia"
-  orcid: "https://orcid.org/0000-0002-3703-4111"
+- family-names: "Martino"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0001-6823-4696"
 - family-names: "Stick"
   given-names: "Stephen"
   orcid: "https://orcid.org/0000-0002-5386-8482"
+- family-names: "Agudelo-Romero"
+  given-names: "Patricia"
+  orcid: "https://orcid.org/0000-0002-3703-4111"
 title: "wal-yan/bed_filter"
 version: 1.0.0
 #doi: 10.5281/zenodo.1234
