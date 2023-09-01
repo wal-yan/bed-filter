@@ -28,7 +28,7 @@ sample-2,/path/to/sample-2.bedGraph
 Then refer that while invoking the pipeline
 
 ```
-nextflow run https://github.com/wal-yan/bed-filter --input /path/to/samplesheet.csv
+nextflow run https://github.com/wal-yan/bed-filter --samplesheet /path/to/samplesheet.csv
 ```
 
 
