@@ -19,7 +19,7 @@ workflow WAL_YAN {
                                         sampleName          = row[0]
                                         bedGraphFile        = row[1]
 
-                                        return tuple([id:sampleName], bedGraphFile)
+                                        return tuple([id:sampleName], file(bedGraphFile, checkIfExists: true))
                                     }
                                 }
 
